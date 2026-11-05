@@ -1,11 +1,7 @@
-<div align="right">
+<div align="center">
 
-<a href="https://aicollaboration.vercel.app/juliarorato/#3509ffb781f0db8d">
-<img src="readme/card.svg?v=1793758713" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/juliarorato/#3509ffb781f0db8d">
+  <img src="https://raw.githubusercontent.com/juliarorato/juliarorato/main/readme/card-1793896170.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/juliarorato/#3509ffb781f0db8d)
